@@ -1,0 +1,110 @@
+*{margin: 0px; padding: 0px;}
+
+#container{
+  
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black
+}
+
+#head{
+height: 133px;
+background-color: rgb(0, 0, 0);
+
+}
+
+#img_logo{
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+#txt_capa{
+  color: aliceblue;
+  float: left;
+  font-size: 40px;
+  margin-top: 38px;
+  margin-left: 30px;
+  text-shadow:0.1em 0.1em 0.5em rgb(5, 5, 5)
+}
+#txt_login{
+  color: aliceblue;
+  font-size: 24px;
+  float: right;
+  margin-top: 50px;
+  margin-right: 20px;
+}
+#img_logof{
+  float: right;
+  margin-top: 35px;
+  margin-right: 20px;
+}
+#menu{
+  height: 45px;
+  background-color: #dbaf35;
+  font-size: 22px; 
+  }
+  #menu_lista{
+    list-style:none
+  }
+  #menu_lista li{
+    float: left;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+  #menu_lista li a{
+    color: white;
+    text-decoration: none
+  } 
+  #menu_lista li a:hover{
+    color: black
+  } 
+  #left_home{
+    margin-left: 20px;
+  }
+
+  #corpo form{
+    border-left: 300px;
+    border-right: 300px;
+  }
+
+  #formulario_contato{
+    margin-left: 35%;
+    max-width: 300px;
+    height: 350px;
+    padding: 16px;
+  }
+
+
+  #corpo{
+    color: white;
+    height: 922px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    #tabela{
+      color: rgb(3, 3, 3);
+      background-color:#dbaf35;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      border-color: black;
+    }
+#form-fale{
+  text-align: auto;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+
+    #rodape{
+      height: 100px;
+      background-color: #dbaf35;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      }

@@ -1,0 +1,16 @@
+=====================================================
+O QUE FOI FEITO                                     =
+=====================================================
+- Redirecionar login para o menu correto   
+- Remover arquivos e imagens não usadas  
+- Trocar .html para .php  
+- Alterado estrutura de pastas e nomenclatura
+- Adequado tela de login
+- Fazer logout funcionar
+=====================================================
+O QUE FALTA FAZER                                   =
+=====================================================
+- Fazer alerta de erro no login 
+- Esqueci a senha
+- Estilo das páginas (Nome de menus, estilo, imagens, etc)
+- Montar telas propostas no mockup
